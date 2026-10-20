@@ -1,4 +1,4 @@
-b/**
+/**
  * CONTENIDO DEL SITIO — Nova Barber Studio
  *
  * Todo el texto editable de la página vive en este archivo: nombre, WhatsApp,
