@@ -1,4 +1,4 @@
-/**
+b/**
  * CONTENIDO DEL SITIO — Nova Barber Studio
  *
  * Todo el texto editable de la página vive en este archivo: nombre, WhatsApp,
@@ -18,7 +18,7 @@ export const site = {
    * El número actual es de DEMOSTRACIÓN: reemplazalo por el real del cliente.
    */
   whatsapp: {
-    number: '5491100000000',
+    number: '3794651836',
     defaultMessage:
       'Hola Nova Barber Studio, quiero consultar disponibilidad de turnos.',
   },
